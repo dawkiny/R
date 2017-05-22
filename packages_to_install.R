@@ -40,7 +40,7 @@ install.packages('repr')
 install.packages('IRdisplay')
 install.packages('evaluate')
 install.packages('crayon')
-#install.packages('pbdZMQ')
+install.packages('rzmq')
 install.packages('uuid')
 install.packages('digest')
 
