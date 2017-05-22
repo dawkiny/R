@@ -20,6 +20,14 @@ install.packages('reshape2')
 install.packages('tidyr')# evolution of reshape2
 install.packages('FactoMineR')# Multivariate Exploratory data analysis methods such as principal component methods and clustering.
 
+# Programming ------------
+install.packages('devtools')
+install.packages('rJava')
+install.packages('RcppArmadillo')
+install.packages('digest')# hash digest
+install.packages('roxygen2')# R documentation system
+install.packages('foreach')
+
 # SQL ------------
 install.packages('sqldf')
 install.packages('RPostgreSQL')
@@ -97,12 +105,6 @@ install.packages('colorspace')
 ## Map
 install.packages('scales')
 
-# Programming ------------
-install.packages('devtools')
-install.packages('RcppArmadillo')
-install.packages('digest')# hash digest
-install.packages('roxygen2')# R documentation system
-install.packages('foreach')
 
 # Misc ------------
 install.packages('rmarkdown')
