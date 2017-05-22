@@ -34,6 +34,15 @@ install.packages('pandasql')
 install.packages('httr')# Work with URL, HTTP
 install.packages('shiny')
 install.packages('RCurl')# HTTP, URI
+install.packages('httr')
+install.packages('openssl')
+install.packages('repr')
+install.packages('IRdisplay')
+install.packages('evaluate')
+install.packages('crayon')
+#install.packages('pbdZMQ')
+install.packages('uuid')
+install.packages('digest')
 
 # Statistics ------------
 
