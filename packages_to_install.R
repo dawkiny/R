@@ -57,7 +57,7 @@ install.packages('survival')
 install.packages('glmnet')
 install.packages('randomForest')
 install.packages('e1071')
-install.packages('lars')
+install.packages('lars')# Least Angle Regression, Lasso and Forward Stagewise
 install.packages('algae')
 install.packages('arules')
 install.packages('tree')
