@@ -23,3 +23,12 @@ install.packages('rJava')
 install.packages('RJDBC')
 
 ```
+
+In case of Error:
+
+`Installation failed: Peer certificate cannot be authenticated with given CA certificates`
+
+```r
+library(httr)
+set_config(config(ssl_verifypeer = 0L))
+```
