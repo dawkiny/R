@@ -6,6 +6,7 @@ install.packages('xfs')
 install.packages('stringr')
 install.packages('timeDate')
 install.packages('lubricate')
+install.packages('forcats')
 
 # Data Structure ------------
 install.packages('data.table')
@@ -70,15 +71,20 @@ install.packages('algae')
 install.packages('arules')
 install.packages('tree')
 install.packages('mboost')# Gradient Descent Algorithm(boosting)
+install.packages('xgboost')
 install.packages('gbm')# Generalised Boosted Models
 install.packages('ROCR')# Visualising the Performance of Scring Classifiers
 install.packages('forecast')# Forcasting Func. for Timeseries & Linear Models
+
 install.packages('klaR')# Classification & Visualisation
 install.packages('lme4')# Linear Mixed-Effects Models using 'Eigen' and S4
 install.packages('nlme')# Linear and Nonlinear Mixed Effects Models
 install.packages('multcomp')# Simultaneous Inference in General Parametric Models
 install.packages('quantmod')# Quantitative Financial Modelling Framework
 install.packages('kernlab')# Kernel-Based Machine Learning Lab
+install.packages('leaflet')
+install.packages('leaflet.extras')
+
 
 ## Neural Networks
 install.packages('nnet')
@@ -88,6 +94,7 @@ install.packages('nnet')
 ## Graph
 install.packages('ggplot2')
 install.packages('riverplot')
+install.packages('corrplot')
 install.packages('dygraphs')
 install.packages('threeJS')
 install.packages('plotly')
@@ -96,6 +103,9 @@ install.packages('ggvis')
 install.packages('vcd')#Structure plot(Categorical data)
 install.packages('manipulate')# Interactive plotting
 install.packages('gridExtra')# Grid Graphics
+install.packages('maps')
+install.packages('geosphere')
+
 
 ## Color
 install.packages('RcolorBrewer')
@@ -111,6 +121,7 @@ install.packages('rmarkdown')
 install.packages('knitr')
 install.packages('brew')
 install.packages('nutshell')# datasets of 'R in nutshell'
+install.packages('alluvial')
 
 ##?? ------------
 install.packages('mgcv')# Mixed GAM Computation Vehicle with GCV/AIC/REML Smoothness Estimation
